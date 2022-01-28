@@ -1,4 +1,4 @@
-"engines":{
+"engines": {
 "node": "16.11.0"
 "npn": "8.0.0"
 },
